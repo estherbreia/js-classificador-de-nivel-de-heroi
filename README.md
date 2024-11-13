@@ -3,4 +3,4 @@
 Classificador de Nível de Herói utilizando conceitos básico de javascript.
 
 
-Desafio proposta em aula com Dio.
+Desafio proposta em aula da Dio.
